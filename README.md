@@ -1,16 +1,3 @@
-# h1d023040_tugas_6_pertemuan8
+<img width="738" height="947" alt="form" src="https://github.com/user-attachments/assets/824fe439-291d-42a0-9a77-95d499ef538f" />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="747" height="966" alt="tampil" src="https://github.com/user-attachments/assets/d3ff3490-8b30-4ac9-9734-0738bfd029ea" />
